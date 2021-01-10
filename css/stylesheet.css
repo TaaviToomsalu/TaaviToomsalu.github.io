@@ -1,0 +1,99 @@
+* {margin: 0px;}
+body {
+	background: #c18f52 url(../images/5007.png) ;
+}
+ul{
+	list-style-type: none ;
+	padding: 0px;
+	height: 72px;
+}
+li {
+	float: left;
+	width: 80px;
+	color: #eadb8a;
+	font-size: x-large;
+}
+li a:hover {
+	color: bisque;
+	/*background-color: aqua;*/
+	font-size: xx-large;
+	font-weight: bold;
+	font-family: arial;
+	opacity: .5;
+}
+
+header{
+	margin: 20px auto;
+	font-size: 25px;
+	font-family: 'Indie Flower', cursive;
+	border: 1px solid #751818;
+	padding: 30px;
+	max-width: 950px;
+	color: #eed5d5;
+	background: url(../images/1020.png)
+}
+
+header h1 {
+	text-align: center;
+}
+
+
+
+h2 {
+	
+	width: 300px;
+	color: #000;
+	font-family: 'Baloo Tamma 2', cursive;
+	/*border-bottom: 2px groove green;*/
+	padding: 2px;
+	margin: 10px;
+	margin-top: 30px;
+}
+section {	
+	
+	border:  1px solid#237d2c;
+	border-radius: 10px;
+	padding: 5px;
+	margin : 40px auto;
+	margin-top: 50px;
+	max-width: 956px;
+	height: 600px;
+	background: #fff;
+	background: url(../images/5028.png);
+	/*background: url("http://www.birds.com/wp-content/uploads/home/bird4.jpg");*/
+}
+section p, figcaption {
+	font-family: 'Baloo Tamma 2', cursive;
+	color: #1c0f0f;
+}
+figure {
+	text-align: center;
+	padding-left: 50px;
+	/*padding-bottom: 40px;*/
+}
+section p {
+	text-align: justify;
+	font-size: 20px;
+	padding: 0px 10px;
+	max-width: 650px;
+	/*border: 1px double #bd4646;*/
+	margin: 0px 20px;
+	max-width: 650px;
+}
+figure p {
+	color: #eadb8a;
+	font-size: 10px;
+	text-align: center;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+	margin-bottom: 5px;
+	margin-right: 20px;
+}
+
+#images {
+	max-width: 150px;
+	float:right;
+}
