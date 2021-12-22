@@ -51,13 +51,13 @@ h2 {
 }
 section {	
 	
-	border:  1px solid#237d2c;
+	/*border:  1px solid#237d2c;*/
 	border-radius: 10px;
 	padding: 5px;
 	margin : 40px auto;
 	margin-top: 50px;
 	max-width: 956px;
-	height: 600px;
+	height: 610px;
 	background: #fff;
 	background: url(../images/5028.png);
 	/*background: url("http://www.birds.com/wp-content/uploads/home/bird4.jpg");*/
